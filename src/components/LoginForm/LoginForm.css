@@ -1,0 +1,12 @@
+.login-card {
+    min-height: 60vh;
+}
+
+.registerMessage {
+    margin-top: 10vh;
+}
+
+.btn-primary {
+    background-color: #49166D;
+    border-color: #49166D;
+}
